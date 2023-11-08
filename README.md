@@ -13,7 +13,7 @@ python venv -m Your_Venv_Name /path/to/your/venv/location
 ```
 3. Clone this git repo
 ```
-git clone https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV.git
+git clone https://github.com/divyadarshansoni/Image-dectection-and-angle-calculation
 ```
 4. Install libraries from requirements.txt in active venv
 ```
